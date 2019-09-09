@@ -8,4 +8,4 @@ currentUser = welcomeMessage
 
 let excitedWelcomeMessage = "WELCOME TO FLATBOOK, ";
 
-currentUser = excitedWelcomeMessage;
+currentUser
