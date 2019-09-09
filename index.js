@@ -3,7 +3,7 @@ let currentUser = "!";
 
 let welcomeMessage = "Welcome to Flatbook, !";
 
-currentUser = welcomeMessage
+const welcomeMessage = currentUser;
 
 
 let excitedWelcomeMessage = "WELCOME TO FLATBOOK, ";
