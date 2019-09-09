@@ -6,4 +6,6 @@ let welcomeMessage = "Welcome to Flatbook, !";
 currentUser = welcomeMessage
 
 
-let excitedWelcomeMessage = "WELCOME TO FLATBOOK, "
+let excitedWelcomeMessage = "WELCOME TO FLATBOOK, ";
+
+excitedWelcomeMessage + currentUser
